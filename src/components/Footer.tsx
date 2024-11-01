@@ -15,8 +15,8 @@ const Footer = () => {
                     <Image src={"/footer/insta.png"} alt="insta" width={30} height={30} className="md:w-7 md:h-7 w-5 h-5 object-contain"></Image>
                 </Link>
 
-                <Link href={"https://www.youtube.com/"} target="_blank">
-                    <Image src={"/footer/youtube.png"} alt="youtube" width={36.92} height={30} className="md:w-10 md:h-10 w-8 h-8 object-contain"></Image>
+                <Link href={"https://twitter.com/"} target="_blank">
+                    <Image src={"/footer/twitter.png"} alt="twitter" width={36.92} height={30} className="md:w- md:h-10 w-8 h-8 object-contain"></Image>
                 </Link>
 
                 <Link href={"https://pk.linkedin.com/"} target="_blank">
