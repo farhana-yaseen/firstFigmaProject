@@ -27,6 +27,7 @@ const config: Config = {
         inter: "Inter",
         heebo: "Heebo"
       },
+    
       width:{
         "292px":"292px",
         "282px":"282px",
